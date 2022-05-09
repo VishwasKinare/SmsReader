@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OTP Viewer</string>
+    <string name="enable_sms_message">To continue enable sms permission.</string>
+    <string name="ok">OK</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="no_text_messages">No text messages</string>
+    <string name="otp_copied">OTP Copied</string>
+</resources>
